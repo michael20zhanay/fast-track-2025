@@ -1,0 +1,16 @@
+# This is the list of dotdotdot's significant contributors.
+#
+# This does not necessarily list everyone who has contributed code.
+# To see the full list of contributors, see the revision history in
+# source control.
+
+James Powell <james@dutc.io>
+Cameron Riddell <cameron@dutc.io>
+Xiaogang Yang <yangxg@bnl.gov>
+Anthony Losito <alosito@bnl.gov>
+Cassandra Gagnon <cgagnon@bnl.gov>
+Keith Catalano <kcatalano@bnl.gov>
+Frank Donato <fdonato@bnl.gov>
+Dyon Buitenkamp <dbuitenka@bnl.gov>
+Michael Zhanay <mzhanay@bnl.gov>
+Oleksii Biletskyi
