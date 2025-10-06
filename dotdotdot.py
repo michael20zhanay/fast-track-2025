@@ -9,7 +9,7 @@ app = FastAPI()
 
 @app.get('/test')
 async def test():
-    return {'success': True, 'timestamp': datetime.now()
+    return {'success': True, 'timestamp': datetime.now()}
 
 if __name__ == '__main__':
     run(app)
